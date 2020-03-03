@@ -49,7 +49,7 @@
 	            background: ['color1', 'color2', 'color3'],
 	            indicatorDots: true,
 	            autoplay: true,
-	            interval: 2000,
+	            interval: 1000,
 	            duration: 500
 	        }
 	    },
